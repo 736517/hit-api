@@ -22,7 +22,7 @@ app.appendChild(container);
 
 var request = new XMLHttpRequest();
 
-request.open('GET', 'https://ghibliapi.herokuapp.com/films', true);
+request.open('GET', 'https://help.github.com/en', true);
 
 request.onload = function () {
 
